@@ -75,11 +75,11 @@ export default function Home() {
           </Heading>
 
           <Experience
-            href="https://github.com/saloni0419/Book-Store"
-            side="Book-Store"
-            title="Book-Store"
-            desc="A book store project where we can do CRUD operations "
-            stack="React.js • Express.js • Node.js • JavaScript "
+            href="https://authify-67fg.onrender.com/signup"
+            side="Authify"
+            title="Authify"
+            desc="Authentication System Built with MERN stack. "
+            stack="React.js • Express.js • Node.js • MongoDB "
           />
           <Experience
             href="https://moviesworld-beta.vercel.app/"
